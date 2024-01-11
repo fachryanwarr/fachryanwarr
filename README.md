@@ -143,7 +143,7 @@
   <h3>📊 GitHub Stats</h3>
   <p align="center">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=meterai07&theme=vision-friendly-dark&hide_border=false"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=fachryanwarr&theme=vision-friendly-dark&hide_border=false"
       alt="GitHub Streak Stats"
     />
   </p>
