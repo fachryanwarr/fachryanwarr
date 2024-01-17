@@ -32,6 +32,14 @@
       alt="NextJs"
     />
   </a>
+  <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
+    <img
+      src="https://vitejs.dev/logo-with-shadow.png"
+      width="36"
+      height="36"
+      alt="ViteJs"
+    />
+  </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
